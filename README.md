@@ -96,7 +96,7 @@ student-teacher-booking/
 ---
 
 ## ✍️ Author
-**Bungpurlu Basumatary**
+**Gaurav Kumar**
 
 ---
 
